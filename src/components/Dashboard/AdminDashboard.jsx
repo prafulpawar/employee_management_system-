@@ -12,6 +12,7 @@ function AdminDashboard() {
                  <div>
                         <h3>Task Title</h3>
                         <input type="text" placeholder='Make A UI Design' />
+                        
                  </div>
 
                  <div>
@@ -40,7 +41,7 @@ function AdminDashboard() {
                 
             </form>
          </div>
-         
+
     </div>
   )
 }
